@@ -10,3 +10,9 @@ In the folder, you will find these files:
 - png.py: pure Python PNG `Reader` and `Writer` classes from Johann C. Rocholl
 - transform.py: implemented image filter functions
 - transform_empty.py: empty template for image filter functions
+
+
+Code Reference:
+YouTube Kylie Ying: https://www.youtube.com/ycubed 
+Github: https://www.github.com/kying18 
+
